@@ -28,7 +28,7 @@ class encryption
        
        else {
 
- 	System.out.print(x.CharAt(i));
+ 	System.out.print(a);
              }
     }
 
