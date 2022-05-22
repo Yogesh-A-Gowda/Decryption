@@ -10,5 +10,3 @@ for i in range(len(x)):
         elif(ord(x[i])<=109):
             c = (26+ord(x[i]))-13
             print(chr(c),end = " ")
-        elif X[i] == ",":
-            print(',')
